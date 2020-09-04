@@ -1,0 +1,1 @@
+FOR HAARCASCADE_FRONTALFACE_DEFAULT watch the observations_master/data/haarcascade_frontalface

@@ -1,0 +1,2 @@
+FACEMASK[[:space:]]DETECTION filter=lfs diff=lfs merge=lfs -text
+FACEMASK/[[:space:]]DETECTION filter=lfs diff=lfs merge=lfs -text
